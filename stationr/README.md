@@ -1,6 +1,7 @@
 # StationR
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
+This project is based on Vaadin flow quickstart project.
+Quickstart project can be used as base for creating an own application with Java.
 It contains all the necessary configuration and some placeholder files to get you started.
 
 ## Running the application
